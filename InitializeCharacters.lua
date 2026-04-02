@@ -7,4 +7,4 @@ Players.PlayerAdded:Connect(function(player)
 		character.Humanoid.EvaluateStateMachine = false
 		wait()
 	end)	
-end)
+end) 
