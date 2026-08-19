@@ -10,4 +10,4 @@ Features:
 - Dashing with strength based on stamina consumption
 - Grapple ability
 - Lunge ability to specific targets
-- Assorted player interactions (water traversal effects debuffs and post processing, breakables, tutorial prompts, camera override, damage, collectables)
+- Assorted player interactions (water traversal effects and debuffs, breakables, tutorial prompts, camera override, damage, collectables)
